@@ -1,0 +1,82 @@
+body{
+    font-family: 'Charis SIL', serif;
+    margin: 0px;    
+}
+.headder-color{
+    color: coral;
+}
+h1{
+    font-size: 40px;
+}
+.Desply-felx{
+    display: flex;
+    border: 0px;
+}
+.First-half-width{
+    width: 50%;
+    padding-left: 30px;
+    padding-right: 100px;
+    
+}
+.First-half-weidth img{
+    width: 60%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.First-half-weidth-for img{
+    width: 35%;
+    padding-left: 150px;
+    padding-bottom: 0%;
+    
+   
+}
+.Attribut-order{
+    text-decoration: none;
+    background-image: repeating-radial-gradient(rgb(248, 131, 131), rgb(253, 46, 9));
+    padding: 10px 10px;
+    border-radius: 20px;
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font: weight 400px;;
+}
+.About-bg{
+    background-image: url(image/7.png);    
+}
+.My-Recipies{     
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;           
+    margin: 0px 150px;
+}
+.Recipie-area{
+    width: 100px;
+    padding-left: 10px;
+    padding-right: 10px;      
+}
+.recipie-image{
+    width:300px;
+    padding-top: 10px;    
+}
+.padding-saddo{    
+    width: 60%;
+    padding-top: 0px;
+    margin-top: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;        
+    border-radius: 20px;
+    padding-bottom: 10px;        
+    box-shadow: 10px 10px 40px rgb(90, 81, 85);
+}
+.Fotter-span{
+    color: coral;
+}
+footer {
+    text-align: center;        
+    background-color: rgb(34, 32, 34);
+    margin-top: 250px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    color: aliceblue;    
+    height: 100px;
+}
